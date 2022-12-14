@@ -58,3 +58,4 @@ Navigating to the page will display a static “Wordle” game.
 * [ ] Split the page into components
 * [ ] Refactor the page into static React components
     - Consider use the React [tools](https://beta.reactjs.org/learn/start-a-new-react-project)
+    - Provide "start" script to run the project
