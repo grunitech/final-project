@@ -100,6 +100,8 @@ Navigating to the page will display a static “Wordle” game.
 
 Welcome Screen
 
+<img src="https://github.com/grunitech/final-project/blob/main/docs/wordle-mock-welcome.png" width="30">
+
 ![Welcome Screen](./docs/wordle-mock-welcome.png)
 
 Top Bar
