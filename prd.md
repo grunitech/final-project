@@ -40,13 +40,17 @@ Till another decision - Typescript and javascript are allowed.
 
 | Requirement                                                           | Category          | Target            |
 |-----------------------------------------------------------------------|-------------------|-------------------|
+| Milestone A                                                           |                   |
+| [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS    | :computer:        | 
 | [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS    | :computer:        | 
 | [The user should be able to enter a word](#interactions)              | HTML, CSS, JS     | :computer:        | 
 | [The user should not notify we changed the implementation](#reactify) | Static React      | :computer: :herb: |                                                          
-| ***                                                                   | ***               | :computer: :herb: | 
+| Milestone B                                                           |                   |                   | 
 | [User should start with welcome and have some help](#layout)          | Routing, Modal    | :computer: :herb: | 
 | [User can play](#full-front-end-game-logic)                           | State             | :computer: :herb: | 
 | [Let me connect](#users)                                              | Forms and storage | :computer: :herb: | 
+| Milestone C                                                           |                   |                   |
+| [Let the server choose the word](#choose-word)                        | Express           | :factory:         |
 
 * :computer: Client Side
 * :herb: React
@@ -121,6 +125,10 @@ TBD
 * [ ] Change the welcome screen to greet the user by his name if any, else use "guest"
 * [ ] After login, the topbar should contain the username and a logout link/button
 * [ ] The logout link/button should delete username locally
+
+### Choose Word
+
+TBD
 
 ---
 
