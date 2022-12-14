@@ -3,17 +3,17 @@
 Product Requirement Document (PRD)
 
 * [Overview](#overview)
-  + [Wordle Game](#wordle-game)
+    + [Wordle Game](#wordle-game)
 * [Requirements](#requirements)
 * [Features/User Stories](#features-user-stories)
-  + [The Form](#the-form)
-  + [Interactions](#interactions)
-  + [Reactify](#reactify)
-  + [Layout](#layout)
-  + [Game Logic On Single Line](#game-logic-on-single-line)
-  + [UI Testing](#ui-testing)
-  + [Full Front End Game Logic](#full-front-end-game-logic)
-  + [Users](#users)
+    + [The Form](#the-form)
+    + [Interactions](#interactions)
+    + [Reactify](#reactify)
+    + [Layout](#layout)
+    + [Game Logic On Single Line](#game-logic-on-single-line)
+    + [UI Testing](#ui-testing)
+    + [Full Front End Game Logic](#full-front-end-game-logic)
+    + [Users](#users)
 
 ## Overview
 
@@ -38,15 +38,15 @@ Till another decision - Typescript and javascript are allowed.
     We use user stories to describe our application requirements. Each user story contains a list of tasks required to complete it.
     There are several ways to write user stories. I chose a template that describes the product from the point of view of a user who tries to use the application.
 
-| Requirement                                                           | Category          |
-|-----------------------------------------------------------------------|-------------------|
-| [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS    | 
-| [The user should be able to enter a word](#interactions)              | HTML, CSS, JS     | 
-| [The user should not notify we changed the implementation](#reactify) | Static React      |                                                            
-| ***                                                                   | ***               |
-| [User should start with welcome and have some help](#layout)          | Routing, Modal    |
-| [User can play](#full-front-end-game-logic)                           | State             |
-| [Let me connect](#users)                                              | Forms and storage |
+| Requirement                                                           | Category          | Target      |
+|-----------------------------------------------------------------------|-------------------|-------------|
+| [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS    | :blue_book: | 
+| [The user should be able to enter a word](#interactions)              | HTML, CSS, JS     | :blue_book: | 
+| [The user should not notify we changed the implementation](#reactify) | Static React      | :blue_book: |                                                          
+| ***                                                                   | ***               | :blue_book: | 
+| [User should start with welcome and have some help](#layout)          | Routing, Modal    | :blue_book: | 
+| [User can play](#full-front-end-game-logic)                           | State             | :blue_book: | 
+| [Let me connect](#users)                                              | Forms and storage | :blue_book: | 
 
 ## Features/User Stories
 
@@ -117,3 +117,8 @@ TBD
 * [ ] Change the welcome screen to greet the user by his name if any, else use "guest"
 * [ ] After login, the topbar should contain the username and a logout link/button
 * [ ] The logout link/button should delete username locally
+
+## Emojis Legend
+
+:blue_book: Front End
+:factory: Server
