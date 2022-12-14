@@ -40,7 +40,7 @@ Till another decision - Typescript and javascript are allowed.
 
 | Requirement                                                           | Category          | Target            |
 |-----------------------------------------------------------------------|-------------------|-------------------|
-| Milestone A                                                           |                   |
+| Milestone A                                                           |                   |                   | 
 | [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS    | :computer:        | 
 | [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS    | :computer:        | 
 | [The user should be able to enter a word](#interactions)              | HTML, CSS, JS     | :computer:        | 
@@ -50,7 +50,7 @@ Till another decision - Typescript and javascript are allowed.
 | [User can play](#full-front-end-game-logic)                           | State             | :computer: :herb: | 
 | [Let me connect](#users)                                              | Forms and storage | :computer: :herb: | 
 | Milestone C                                                           |                   |                   |
-| [Let the server choose the word](#choose-word)                        | Express           | :factory:         |
+| [Let the server choose the word](#choose-word)                        | Express           | :factory: :herb:  |
 
 * :computer: Client Side
 * :herb: React
