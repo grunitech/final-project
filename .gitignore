@@ -1,10 +1,6 @@
-.idea
-node_modules
-src/*.css
-src/*.css.map
-.npmrc
-
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+.idea
 
 # dependencies
 /node_modules
