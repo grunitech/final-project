@@ -38,17 +38,18 @@ Till another decision - Typescript and javascript are allowed.
     We use user stories to describe our application requirements. Each user story contains a list of tasks required to complete it.
     There are several ways to write user stories. I chose a template that describes the product from the point of view of a user who tries to use the application.
 
-| Requirement                                                           | Category          | Target     |
-|-----------------------------------------------------------------------|-------------------|------------|
-| [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS    | :computer: | 
-| [The user should be able to enter a word](#interactions)              | HTML, CSS, JS     | :computer: | 
-| [The user should not notify we changed the implementation](#reactify) | Static React      | :computer: |                                                          
-| ***                                                                   | ***               | :computer: | 
-| [User should start with welcome and have some help](#layout)          | Routing, Modal    | :computer: | 
-| [User can play](#full-front-end-game-logic)                           | State             | :computer: | 
-| [Let me connect](#users)                                              | Forms and storage | :computer: | 
+| Requirement                                                           | Category          | Target            |
+|-----------------------------------------------------------------------|-------------------|-------------------|
+| [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS    | :computer:        | 
+| [The user should be able to enter a word](#interactions)              | HTML, CSS, JS     | :computer:        | 
+| [The user should not notify we changed the implementation](#reactify) | Static React      | :computer: :herb: |                                                          
+| ***                                                                   | ***               | :computer: :herb: | 
+| [User should start with welcome and have some help](#layout)          | Routing, Modal    | :computer: :herb: | 
+| [User can play](#full-front-end-game-logic)                           | State             | :computer: :herb: | 
+| [Let me connect](#users)                                              | Forms and storage | :computer: :herb: | 
 
 * :computer: Client Side
+* :herb: React
 * :factory: Server Side
 
 ## Features/User Stories
@@ -120,8 +121,6 @@ TBD
 * [ ] Change the welcome screen to greet the user by his name if any, else use "guest"
 * [ ] After login, the topbar should contain the username and a logout link/button
 * [ ] The logout link/button should delete username locally
-
-
 
 ---
 
