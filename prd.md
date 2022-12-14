@@ -29,12 +29,14 @@ Till another decision - Typescript and javascript are allowed.
     We use user stories to describe our application requirements. Each user story contains a list of tasks required to complete it.
     There are several ways to write user stories. I chose a template that describes the product from the point of view of a user who tries to use the application.
 
-| Requirement                                                           | Category       |
-|-----------------------------------------------------------------------|----------------|
-| [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS | 
-| [The user should be able to enter a word](#interactions)              | HTML, CSS, JS  | 
-| [The user should not notify we changed the implementation](#reactify) | Static React   |                                                            
-| [User should start with welcome and have some help](#layout)          | Routing, Modal |
+| Requirement                                                           | Category          |
+|-----------------------------------------------------------------------|-------------------|
+| [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS    | 
+| [The user should be able to enter a word](#interactions)              | HTML, CSS, JS     | 
+| [The user should not notify we changed the implementation](#reactify) | Static React      |                                                            
+| [User should start with welcome and have some help](#layout)          | Routing, Modal    |
+| [User can plat](#Full Front End Game Logic)                           | State             |
+| [Let me connect](#Users)                                              | Forms and storage |
 
 ## Features/User Stories
 
@@ -93,6 +95,15 @@ TBD
 ### Full Front End Game Logic
 
 * [ ] For all lines
-  * [ ] After finish line logic, put the focus on the first character of the next line
-  * [ ] Do single line logic 
+    * [ ] After finish line logic, put the focus on the first character of the next line
+    * [ ] Do single line logic
 * [ ] If no success, display dialog "fail"
+
+### Users
+
+* [ ] login link/button at the topbar
+    * [ ] Show modal with login form (name) and login button that close the modal
+    * [ ] Keep the username locally (browser)
+* [ ] Change the welcome screen to greet the user by his name if any, else use "guest"
+* [ ] After login, the topbar should contain the username and a logout link/button
+* [ ] The logout link/button should delete username locally
