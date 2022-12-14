@@ -99,9 +99,11 @@ Navigating to the page will display a static “Wordle” game.
 #### Layout Examples
 
 Welcome Screen
+
 ![Welcome Screen](./docs/wordle-mock-welcome.png)
 
 Top Bar
+
 ![Top Bar](./docs/wordle-mock-topbar.png)
 
 ### Game Logic On Single Line
