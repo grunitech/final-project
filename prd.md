@@ -30,7 +30,8 @@ An example to a “Wordle” game:
 | Requirement                                                           | Category       |
 |-----------------------------------------------------------------------|----------------|
 | [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS | 
-| [The user should be able to enter a word](./)                         | HTML, CSS, JS  | 
+| [The user should be able to enter a word](#interactions)              | HTML, CSS, JS  | 
+| [Reactify](#reactify)                                                 | React          |                                                            
 
 ## Features/User Stories
 
@@ -51,3 +52,8 @@ Navigating to the page will display a static “Wordle” game.
     - Only letters
     - Move focus to the next input
     - After the last letter show dialog “done”
+
+### Reactify
+
+* [ ] Split the page into components
+* [ ] Refactor the page into static React components
