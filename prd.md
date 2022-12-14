@@ -27,10 +27,10 @@ An example to a “Wordle” game:
     We use user stories to describe our application requirements. Each user story contains a list of tasks required to complete it.
     There are several ways to write user stories. I chose a template that describes the product from the point of view of a user who tries to use the application.
 
-| Requirement                                                    | Category       |
-|----------------------------------------------------------------|----------------|
-| [Navigating to the page will display a static wordle game](./) | npm, HTML, CSS | 
-| [The user should be able to enter a word](./)                  | HTML, CSS, JS  | 
+| Requirement                                                           | Category       |
+|-----------------------------------------------------------------------|----------------|
+| [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS | 
+| [The user should be able to enter a word](./)                         | HTML, CSS, JS  | 
 
 ## Features/User Stories
 
