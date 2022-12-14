@@ -2,9 +2,18 @@
 
 Product Requirement Document (PRD)
 
-- [Overview](#overview)
-    - [Wordle Game](#wordle-game)
-- [Requirements](#requirements)
+* [Overview](#overview)
+  + [Wordle Game](#wordle-game)
+* [Requirements](#requirements)
+* [Features/User Stories](#features-user-stories)
+  + [The Form](#the-form)
+  + [Interactions](#interactions)
+  + [Reactify](#reactify)
+  + [Layout](#layout)
+  + [Game Logic On Single Line](#game-logic-on-single-line)
+  + [UI Testing](#ui-testing)
+  + [Full Front End Game Logic](#full-front-end-game-logic)
+  + [Users](#users)
 
 ## Overview
 
