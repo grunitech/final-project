@@ -102,6 +102,9 @@ Welcome Screen
 
 <img src="https://github.com/grunitech/final-project/blob/main/docs/wordle-mock-welcome.png" width="30">
 
+<img src="https://github.com/grunitech/final-project/blob/main/docs/wordle-mock-welcome.png" style="width: 100px">
+
+
 ![Welcome Screen](./docs/wordle-mock-welcome.png)
 
 Top Bar
