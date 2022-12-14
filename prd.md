@@ -39,16 +39,16 @@ An example to a “Wordle” game:
 
 Navigating to the page will display a static “Wordle” game.
 
-* [ ] Prepare your development environment
-* [ ] Implement game HTML page (see example below)
-* [ ] Add style to the page (choose your own)
+* [x] Prepare your development environment
+* [x] Implement game HTML page (see example below)
+* [x] Add style to the page (choose your own)
 
 ![Mock ](docs/wordle-mock.png)
 
 ### Interactions
 
-* [ ] After page loaded, the focus should be at the first input
-* [ ] Allow user to enter single letter:
+* [x] After page loaded, the focus should be at the first input
+* [x] Allow user to enter single letter:
     - Only letters
     - Move focus to the next input
     - After the last letter show dialog “done”
