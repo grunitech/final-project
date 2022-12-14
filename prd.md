@@ -53,7 +53,7 @@ Navigating to the page will display a static “Wordle” game.
 * [x] After page loaded, the focus should be at the first input
 * [x] Allow user to enter single letter:
     - Only letters
-    - Move focus to the next input
+    - Move focus to the next input in the same row
     - After the last letter show dialog “done”
 
 ### Reactify
@@ -77,6 +77,13 @@ Navigating to the page will display a static “Wordle” game.
     * You should choose how to explain the game
 
 ### Game Logic
+
+* [ ] Choose word (static)
+* [ ] Starting at the first line
+* [ ] After the last letter check the input against the select word and mark the inputs
+    * Bull => green background
+    * Cow => yellow background
+* [ ] Mark all guessed letters in the virtual keyboard
 
 ### UI Testing
 
