@@ -100,11 +100,6 @@ Navigating to the page will display a static “Wordle” game.
 
 Welcome Screen
 
-<img src="https://github.com/grunitech/final-project/blob/main/docs/wordle-mock-welcome.png" width="30">
-
-<img src="https://github.com/grunitech/final-project/blob/main/docs/wordle-mock-welcome.png" style="width: 100px">
-
-
 ![Welcome Screen](./docs/wordle-mock-welcome.png)
 
 Top Bar
@@ -148,3 +143,14 @@ TBD
 ---
 
 :globe_with_meridians: 
+
+
+---
+
+### Playground with assets for this document
+
+<img src="docs/wordle-logo.svg" width="800" height="400" alt="Logo">
+
+<img src="https://github.com/grunitech/final-project/blob/main/docs/wordle-mock-welcome.png" width="30">
+
+<img src="https://github.com/grunitech/final-project/blob/main/docs/wordle-mock-welcome.png" style="width: 100px">
