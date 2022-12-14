@@ -16,7 +16,7 @@ npm i sass -D
 
 ## Documentation
 
-[PRD FILE](./docs/final.pdf)
+[PRD FILE](./prd.md)
 
 ## Development
 
