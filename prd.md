@@ -34,6 +34,7 @@ Till another decision - Typescript and javascript are allowed.
 | [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS | 
 | [The user should be able to enter a word](#interactions)              | HTML, CSS, JS  | 
 | [Reactify](#reactify)                                                 | React          |                                                            
+| [Layout](#layout)                                                     | Modal          |
 
 ## Features/User Stories
 
@@ -61,3 +62,18 @@ Navigating to the page will display a static “Wordle” game.
 * [ ] Refactor the page into static React components
     - Consider use the React [tools](https://beta.reactjs.org/learn/start-a-new-react-project)
     - Provide "start" script to run the project (`npm start` to run your project)
+
+### Layout
+
+* [ ] Welcome screen
+    * First navigating to the game will the display the welcome
+    * The screen should contain the text "Welcome user!"
+* [ ] Help screen
+    * Should be [modal popup](https://en.wikipedia.org/wiki/Modal_window)
+    * Should close only by clicking X at the top corner
+
+### Game Logic
+
+### UI Testing
+
+TBD
