@@ -34,7 +34,7 @@ Till another decision - Typescript and javascript are allowed.
 | [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS | 
 | [The user should be able to enter a word](#interactions)              | HTML, CSS, JS  | 
 | [The user should not notify we changed the implementation](#reactify) | React          |                                                            
-| [Layout](#layout)                                                     | Modal          |
+| [User should start with welcome and have some help](#layout)          | Modal          |
 
 ## Features/User Stories
 
