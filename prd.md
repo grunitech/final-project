@@ -43,3 +43,11 @@ Navigating to the page will display a static “Wordle” game.
 * [ ] Add style to the page (choose your own)
 
 ![Mock ](docs/wordle-mock.png)
+
+### Interactions
+
+* [ ] After page loaded, the focus should be at the first input
+* [ ] Allow user to enter single letter:
+    - Only letters
+    - Move focus to the next input
+    - After the last letter show dialog “done”
