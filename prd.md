@@ -35,7 +35,7 @@ Till another decision - Typescript and javascript are allowed.
 | [The user should be able to enter a word](#interactions)              | HTML, CSS, JS     | 
 | [The user should not notify we changed the implementation](#reactify) | Static React      |                                                            
 | [User should start with welcome and have some help](#layout)          | Routing, Modal    |
-| [User can plat](#Full Front End Game Logic)                           | State             |
+| [User can plat](#full-front-end-game-logic)                           | State             |
 | [Let me connect](#Users)                                              | Forms and storage |
 
 ## Features/User Stories
