@@ -2,11 +2,9 @@
 
 Product Requirement Document (PRD)
 
-
 - [Overview](#overview)
-  - [Wordle Game](#wordle-game)
+    - [Wordle Game](#wordle-game)
 - [Requirements](#requirements)
-
 
 ## Overview
 
@@ -33,3 +31,15 @@ An example to a “Wordle” game:
 |----------------------------------------------------------------|----------------|
 | [Navigating to the page will display a static wordle game](./) | npm, HTML, CSS | 
 | [The user should be able to enter a word](./)                  | HTML, CSS, JS  | 
+
+## Features/User Stories
+
+### The Form
+
+Navigating to the page will display a static “Wordle” game.
+
+* [ ] Prepare your development environment
+* [ ] Implement game HTML page (see example below)
+* [ ] Add style to the page (choose your own)
+
+![Mock ](docs/wordle-mock.png)
