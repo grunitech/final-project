@@ -86,15 +86,20 @@ Navigating to the page will display a static “Wordle” game.
 ### Layout
 
 * [ ] Welcome screen
+![Welcome Screen](./docs/wordle-mock-welcome.png)
     * First navigating to the game will the display the welcome
     * The screen should contain the text "Welcome user!"
     * You should choose how to style this page (animation, video, just text)
 * [ ] Topbar
+![Top Bar](./docs/wordle-mock-topbar.png)
     * Should contain header/name and a link/button to display the help screen
 * [ ] Help screen
     * Should be [modal popup](https://en.wikipedia.org/wiki/Modal_window)
     * Should close only by clicking X at the top corner or clicking "ESC" in the keyboard
     * You should choose how to explain the game
+
+
+
 
 ### Game Logic On Single Line
 
