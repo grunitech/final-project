@@ -76,7 +76,7 @@ Navigating to the page will display a static “Wordle” game.
     * Should close only by clicking X at the top corner
     * You should choose how to explain the game
 
-### Game Logic
+### Game Logic On Single Line
 
 * [ ] Choose word (static)
 * [ ] Starting at the first line
