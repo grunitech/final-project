@@ -24,6 +24,8 @@ An example to a “Wordle” game:
 
 ## Requirements
 
+Till another decision - Typescript and javascript are allowed.
+
     We use user stories to describe our application requirements. Each user story contains a list of tasks required to complete it.
     There are several ways to write user stories. I chose a template that describes the product from the point of view of a user who tries to use the application.
 
