@@ -73,7 +73,7 @@ Navigating to the page will display a static “Wordle” game.
     * Should contain header/name and a link/button to display the help screen
 * [ ] Help screen
     * Should be [modal popup](https://en.wikipedia.org/wiki/Modal_window)
-    * Should close only by clicking X at the top corner
+    * Should close only by clicking X at the top corner or clicking "ESC" in the keyboard
     * You should choose how to explain the game
 
 ### Game Logic On Single Line
@@ -88,3 +88,4 @@ Navigating to the page will display a static “Wordle” game.
 ### UI Testing
 
 TBD
+
