@@ -147,6 +147,7 @@ TBD
 
 ---
 
+<!--
 ### Playground with assets for this document
 
 <img src="docs/wordle-logo.svg" width="800" height="400" alt="Logo">
@@ -154,3 +155,4 @@ TBD
 <img src="https://github.com/grunitech/final-project/blob/main/docs/wordle-mock-welcome.png" width="30">
 
 <img src="https://github.com/grunitech/final-project/blob/main/docs/wordle-mock-welcome.png" style="width: 100px">
+-->
