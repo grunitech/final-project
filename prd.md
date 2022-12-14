@@ -84,8 +84,15 @@ Navigating to the page will display a static “Wordle” game.
     * Bull => green background
     * Cow => yellow background
 * [ ] Mark all guessed letters in the virtual keyboard
+* [ ] If all letters are Bull display dialog "success"
 
 ### UI Testing
 
 TBD
 
+### Full Front End Game Logic
+
+* [ ] For all lines
+  * [ ] After finish line logic, put the focus on the first character of the next line
+  * [ ] Do single line logic 
+* [ ] If no success, display dialog "fail"
