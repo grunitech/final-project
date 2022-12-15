@@ -10,7 +10,7 @@ npx create-react-app final-project --template typescript
 
 ## Documentation
 
-Product Requirement Document (PRD) is [available here](/docs/prd.md).
+Product Requirement Document (PRD) is [available here](/prd.md).
 
 ---
 
