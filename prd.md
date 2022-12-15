@@ -66,7 +66,7 @@ Navigating to the page will display a static “Wordle” game.
 * [x] Implement game HTML page (see example below)
 * [x] Add style to the page (choose your own)
 
-![Mock ](docs/wordle-mock.png)
+![Mock ](assets/wordle-mock.png)
 
 ### Interactions
 
@@ -100,11 +100,11 @@ Navigating to the page will display a static “Wordle” game.
 
 Welcome Screen
 
-![Welcome Screen](./docs/wordle-mock-welcome.png)
+![Welcome Screen](./assets/wordle-mock-welcome.png)
 
 Top Bar
 
-![Top Bar](./docs/wordle-mock-topbar.png)
+![Top Bar](./assets/wordle-mock-topbar.png)
 
 ### Game Logic On Single Line
 
