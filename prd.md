@@ -42,7 +42,6 @@ Till another decision - Typescript and javascript are allowed.
 |-----------------------------------------------------------------------|-------------------|-------------------|
 | Milestone A                                                           |                   |                   | 
 | [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS    | :computer:        | 
-| [Navigating to the page will display a static wordle game](#the-form) | npm, HTML, CSS    | :computer:        | 
 | [The user should be able to enter a word](#interactions)              | HTML, CSS, JS     | :computer:        | 
 | [The user should not notify we changed the implementation](#reactify) | Static React      | :computer: :herb: |                                                          
 | Milestone B                                                           |                   |                   | 
@@ -142,7 +141,7 @@ TBD
 
 ---
 
-:globe_with_meridians: 
+:globe_with_meridians:
 
 
 ---
