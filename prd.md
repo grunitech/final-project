@@ -73,7 +73,7 @@ Navigating to the page will display a static “Wordle” game.
 * [x] Allow user to enter single letter:
     - Only letters
     - Move focus to the next input in the same row
-    - After the last letter show dialog “done”
+    - After the last letter of each line print "done" to the console
 
 ### Reactify
 
