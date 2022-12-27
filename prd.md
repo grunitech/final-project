@@ -49,7 +49,8 @@ Till another decision - Typescript and javascript are allowed.
 | [User can play](#full-front-end-game-logic)                           | State             | :computer: :herb: | 
 | [Let me connect](#users)                                              | Forms and storage | :computer: :herb: | 
 | Milestone C                                                           |                   |                   |
-| [Let the server choose the word](#choose-word)                        | Express           | :factory: :herb:  |
+| [Let the server choose the word](#simple-backend)                     | Express           | :factory: :herb:  |
+| [The word should not be available to the client](#advanced-game)      | Express           | :factory: :herb:  |
 
 * :computer: Client Side
 * :herb: React
@@ -131,8 +132,7 @@ Top Bar
 * [ ] After login, the topbar should contain the username and a logout link/button
 * [ ] The logout link/button should delete username locally
 
-
-### Simple Backend 
+### Simple Backend
 
 * [ ] when game starts, fetch the word for the game from the server
 * [ ] move the check word mechanism to the server
@@ -140,7 +140,6 @@ Top Bar
 ### Advanced Game
 
 * [ ] don't send the real word in the network
-
 
 ### UI Testing
 
