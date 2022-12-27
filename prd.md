@@ -77,8 +77,8 @@ Navigating to the page will display a static “Wordle” game.
 
 ### Reactify
 
-* [ ] Split the page into components
-* [ ] Refactor the page into static React components
+* [x] Split the page into components
+* [x] Refactor the page into static React components
     - Consider use the React [tools](https://beta.reactjs.org/learn/start-a-new-react-project)
     - Provide "start" script to run the project (`npm start` to run your project)
 
@@ -88,7 +88,7 @@ Navigating to the page will display a static “Wordle” game.
     * First navigating to the game will the display the welcome
     * The screen should contain the text "Welcome user!"
     * You should choose how to style this page (animation, video, just text)
-* [ ] Topbar
+* [ ] Topb
     * Should contain header/name and a link/button to display the help screen
 * [ ] Help screen
     * Should be [modal popup](https://en.wikipedia.org/wiki/Modal_window)
@@ -115,10 +115,6 @@ Top Bar
 * [ ] Mark all guessed letters in the virtual keyboard
 * [ ] If all letters are Bull display dialog "success"
 
-### UI Testing
-
-TBD
-
 ### Full Front End Game Logic
 
 * [ ] For all lines
@@ -135,7 +131,18 @@ TBD
 * [ ] After login, the topbar should contain the username and a logout link/button
 * [ ] The logout link/button should delete username locally
 
-### Choose Word
+
+### Simple Backend 
+
+* [ ] when game starts, fetch the word for the game from the server
+* [ ] move the check word mechanism to the server
+
+### Advanced Game
+
+* [ ] don't send the real word in the network
+
+
+### UI Testing
 
 TBD
 
