@@ -141,6 +141,8 @@ Top Bar
 
 * [ ] don't send the real word in the network
 * [ ] any testable code should have tests (client & server)
+* [ ] the code should be in TypeScript
+* [ ] the code should be clean (should pass linter and formatter)
 
 ### UI Testing
 
