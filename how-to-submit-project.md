@@ -2,7 +2,6 @@
 
     How should I submit my final project?
 
-
 ## Repository
 
 You have 2 options to submit your project. Choose one of the following options.
@@ -31,6 +30,10 @@ _Projects should be at the top of the repository._
 * [ ] Don't leave commented code
 * [ ] Don't leave unused code
 * [ ] Liner/Formatter
+
+### Files
+
+* [ ] Don't commit the node modules
 
 ## Implementation Constrains
 
