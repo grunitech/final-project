@@ -57,6 +57,13 @@ _Projects should be at the top of the repository._
 * [ ] Should run tests using `npm test`
 * [ ] Should start using `npm start`
 
+#### Server 3rd Parties
+
+If your implementation rely on database, provide details and a script to create and populate all required data.
+
+* [ ] Database details (type, connection arguments)
+* [ ] Database creation script
+
 ### Client
 
 * [ ] Should run tests using `npm test`
