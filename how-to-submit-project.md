@@ -3,17 +3,20 @@
     How should I submit my final project?
 
 * [Repository](#repository)
-    * [Single Repository](#single-repository)
-    * [Multiple Repositories](#multiple-repositories)
+  * [Single Repository](#single-repository)
+  * [Multiple Repositories](#multiple-repositories)
 * [Testing](#testing)
 * [Code Style](#code-style)
-    * [Files](#files)
+  * [Files](#files)
 * [Implementation Constrains](#implementation-constrains)
-    * [Server](#server)
-    * [Client](#client)
+  * [Server](#server)
+    * [Server 3rd Parties](#server-3rd-parties)
+  * [Client](#client)
 * [FAQ](#faq)
-    * [Can I use `Next.js` for my project?](#can-i-use-nextjs-for-my-project)
-    * [Can I use a CSS framework?](#can-i-use-a-css-framework)
+  * [Can I use `Next.js` for my project?](#can-i-use-nextjs-for-my-project)
+  * [Can I use a CSS framework?](#can-i-use-a-css-framework)
+  * [Do I have to use database?](#do-i-have-to-use-database)
+  * [If I want to use database, can I use Prisma?](#if-i-want-to-use-database-can-i-use-prisma)
 
 ## Repository
 
