@@ -2,6 +2,19 @@
 
     How should I submit my final project?
 
+* [Repository](#repository)
+    * [Single Repository](#single-repository)
+    * [Multiple Repositories](#multiple-repositories)
+* [Testing](#testing)
+* [Code Style](#code-style)
+    * [Files](#files)
+* [Implementation Constrains](#implementation-constrains)
+    * [Server](#server)
+    * [Client](#client)
+* [FAQ](#faq)
+    * [Can I use `Next.js` for my project?](#can-i-use-nextjs-for-my-project)
+    * [Can I use a CSS framework?](#can-i-use-a-css-framework)
+
 ## Repository
 
 You have 2 options to submit your project. Choose one of the following options.
@@ -49,7 +62,7 @@ _Projects should be at the top of the repository._
 * [ ] Should run tests using `npm test`
 * [ ] Should start using `npm start`
 
-tests, structure, definition for auto-testing
+<!--tests, structure, definition for auto-testing-->
 
 ## FAQ
 
