@@ -81,3 +81,10 @@ If your implementation rely on database, provide details and a script to create 
 
     yes.
 
+### Do I have to use database?
+
+    no.
+
+### If I want to use database, can I use Prisma?
+
+    yes. If some installatiion reqiured, you have to provide all details.
