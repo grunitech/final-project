@@ -50,6 +50,7 @@ _Projects should be at the top of the repository._
 ### Files
 
 * [ ] Don't commit the node modules
+* [ ] Don't commit the built JavaScript (TypeScript only)
 
 
 ### Errors
