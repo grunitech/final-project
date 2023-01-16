@@ -51,6 +51,13 @@ _Projects should be at the top of the repository._
 
 * [ ] Don't commit the node modules
 
+
+### Errors
+
+* [ ] Do not submit project with build errors
+* [ ] Do not submit project with console errors
+* [ ] Do not submit project with nodejs errors
+
 ## Implementation Constrains
 
 ### Server
